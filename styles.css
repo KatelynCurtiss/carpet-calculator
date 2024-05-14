@@ -3,7 +3,9 @@ body {
 }
 
 div {
-    border: 5px; 
-    border-bottom: 5px;
-    text-align:center;
+    height: 350;
+    width: 550;
+    border: 1px solid black;
+    box-sizing: border-box;
+   
 }
